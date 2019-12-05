@@ -1,0 +1,17 @@
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.deps.json
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.dll
+D:\Interview\Algorithms\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.csprojAssemblyReference.cache
+D:\Interview\Algorithms\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.AssemblyInfoInputs.cache
+D:\Interview\Algorithms\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.AssemblyInfo.cs
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.runtimeconfig.json
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.runtimeconfig.dev.json
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.Test.pdb
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.exe
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.pdb
+D:\Interview\Algorithms\Algorithms.Test\bin\Debug\netcoreapp2.1\Algorithms.exe.config
+D:\Interview\Algorithms\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.csproj.CopyComplete
+D:\Interview\Algorithms\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.dll
+D:\Interview\Algorithms\Algorithms.Test\obj\Debug\netcoreapp2.1\Algorithms.Test.pdb

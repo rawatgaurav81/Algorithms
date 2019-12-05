@@ -1,0 +1,13 @@
+D:\Interview\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+D:\Interview\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+D:\Interview\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+D:\Interview\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+D:\Interview\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+D:\Interview\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+D:\Interview\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+D:\Interview\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+D:\Interview\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+D:\Interview\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+D:\Interview\Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+D:\Interview\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+D:\Interview\Algorithms\Algorithms\obj\Debug\Algorithms.pdb

@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Interview\\Algorithms\\Algorithms.Test\\Algorithms.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Interview\\Algorithms\\Algorithms.Test\\Algorithms.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Interview\\Algorithms\\Algorithms.Test\\Algorithms.Test.csproj",
+        "projectName": "Algorithms.Test",
+        "projectPath": "D:\\Interview\\Algorithms\\Algorithms.Test\\Algorithms.Test.csproj",
+        "packagesPath": "C:\\Users\\gaurav rawat\\.nuget\\packages\\",
+        "outputPath": "D:\\Interview\\Algorithms\\Algorithms.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gaurav rawat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Interview\\Algorithms\\Algorithms\\Algorithms.csproj": {
+                "projectPath": "D:\\Interview\\Algorithms\\Algorithms\\Algorithms.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Interview\\Algorithms\\Algorithms\\Algorithms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Interview\\Algorithms\\Algorithms\\Algorithms.csproj",
+        "projectName": "Algorithms",
+        "projectPath": "D:\\Interview\\Algorithms\\Algorithms\\Algorithms.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

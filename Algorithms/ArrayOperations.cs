@@ -3,7 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-
+/// This class contains all the problems that can be done on an array.
 namespace Algorithms
 {
     public class ArrayOperations
